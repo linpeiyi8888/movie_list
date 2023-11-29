@@ -13,6 +13,6 @@
 - 電影下方「More」按鈕開啟電影資訊介紹
 - 網站下方頁數按鈕切換頁面
 
-### link
+### Link
 
 https://codepen.io/fttraeme-the-typescripter/pen/eYKwjLp
