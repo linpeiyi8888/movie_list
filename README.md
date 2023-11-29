@@ -1,19 +1,17 @@
 # Movie List
 
-A simple web application for movie fanatic
-
-In index page, press the "+" button on the movie to keep it into favorite list.
-You can checkout the favorite list in `favorite.html`
-press "x" to remove it from favorite list
+一個可以透過關鍵字搜尋電影，且切換瀏覽模式的網站。
 
 ![login page](./img/movie.png)
 
 ## Features
 
-- listing movies from movie api
-- searching movies by title
-- add movies to your favorite list
-- manage your favorite list
+- 運用 bootstrap 呈現電影頁面
+- 介接 API 以獲取網站所需資訊
+- 輸入關鍵字以搜尋電影
+- 右上角 icon 切換瀏覽模式
+- 電影下方「More」按鈕開啟電影資訊介紹
+- 網站下方頁數按鈕切換頁面
 
 ### link
 
